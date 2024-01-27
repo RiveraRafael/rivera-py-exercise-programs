@@ -1,0 +1,6 @@
+Brunei Darussalam;Brunei;Nation of Brunei;Brunei, The Abode of Peace;Nation of Brunei, The Abode of Peace;a
+United Kingdom;The United Kingdom;The United Kingdom of Great Britain;The United Kingdom of Great Britain and Northern Ireland;United Kingdom of Great Britain;United Kingdom of Great Britain and Northern Ireland;Great Britain;Britain;UK;a
+Philippines;The Philippines;Republic of the Philippines;The Republic of the Philippines;a
+South Korea;Republic of Korea;a
+North Korea;Democratic People's Republic of Korea;a
+United States;The United States;The United States of America;United States of America;US;USA;a
